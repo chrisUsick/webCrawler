@@ -1,0 +1,14 @@
+{
+  "name": "webCrawler",
+  "version": "0.0.0",
+  "description": "webCrawler",
+  "main": "app.js",
+  "author": {
+    "name": "Christopher Usick",
+    "email": "christopher.usick@gmail.com"
+  }
+  , dependencies: {
+	'jsdom': '0.10.3'
+	, 'request': '2.33.0'
+  }
+}
